@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nutsloveproducts/precache-manifest.876d1bbcec1f63534e40f65dc0dbb939.js"
+  "/nutsloveproducts/precache-manifest.eeb2db340d496dfc38a33107a48efbc5.js"
 );
 
 workbox.clientsClaim();
