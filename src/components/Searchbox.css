@@ -2,7 +2,7 @@
     min-width: 350px;
     text-align: center;
 }
-@media (max-width: 500px) {
+@media (max-width: 600px) {
     .ownStyle{
         min-width: 240px;
     }
