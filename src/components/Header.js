@@ -19,21 +19,21 @@ class Header extends Component {
             <div className='nav-body'>
                 <nav className='navbar'>
                     <div className='nav-logo'>
-                        <a href='/#'><img alt ='logo' src={`images/Logo.png`} /></a>
+                        <a href='index.html'><img alt ='logo' src={`images/Logo.png`} /></a>
                     </div>
                     <div className='nav-complete-menu'>
                         <ul className='nav-menu'>
                             <li className='nav-item'>
-                                <a href='/#' className='nav-link' onClick={this.hamburgerMenuOut}>Healthy recipes</a>
+                                <a href='index.html' className='nav-link' onClick={this.hamburgerMenuOut}>Healthy recipes</a>
                             </li>
                             <li className='nav-item'>
-                                <a href='/#' className='nav-link' onClick={this.hamburgerMenuOut}>Peanut Butter</a>
+                                <a href='index.html' className='nav-link' onClick={this.hamburgerMenuOut}>Peanut Butter</a>
                             </li>
                             <li className='nav-item'>
-                                <a href='/#' className='nav-link' onClick={this.hamburgerMenuOut}>About</a>
+                                <a href='index.html' className='nav-link' onClick={this.hamburgerMenuOut}>About</a>
                             </li>
                             <li className='nav-item'>
-                                <a href='/#' className='nav-link' onClick={this.hamburgerMenuOut}>Contact</a>
+                                <a href='index.html' className='nav-link' onClick={this.hamburgerMenuOut}>Contact</a>
                             </li>
                         </ul>
                     </div>
