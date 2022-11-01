@@ -1,0 +1,9 @@
+.ownStyle{
+    min-width: 350px;
+    text-align: center;
+}
+@media (max-width: 500px) {
+    .ownStyle{
+        min-width: 240px;
+    }
+}
